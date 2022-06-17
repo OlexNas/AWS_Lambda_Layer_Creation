@@ -1,0 +1,2 @@
+# Iprort desirable requirements
+pandas==1.4.2
